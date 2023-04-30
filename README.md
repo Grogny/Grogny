@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://media.tenor.com/-ZTRnNnkX6gAAAAC/gustavo-fring.gif" alt="GUS" align="center" width="100" height="100"/> 
 </p>
-<h3 align="center"> Glory to Arstotszka <img src="https://o.remove.bg/downloads/ddf296f1-e069-4dd2-a79c-d83988731d65/image-removebg-preview.png" alt="Arstotszka icon" align="center" width="40" height="40"/> ☭.</h3>
+<img src="https://o.remove.bg/downloads/ddf296f1-e069-4dd2-a79c-d83988731d65/image-removebg-preview.png" alt="Arstotszka icon" align="center" width="50" height="50"/> <h3 align="center"> Glory to Arstotszka ☭.</h3>
 
 - 👨‍💻 KALI Linux and Python enthusiast
 
