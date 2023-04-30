@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Grogny](https://github.com/Grogny)
 
-- 👨‍💻 Fun facts : **I'm inside your house.**
+- 👨‍💻 Fun facts : **I'm inside your house**
 
 <h3 align="left">Connect with me :</h3>
 no.
