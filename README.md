@@ -1,6 +1,6 @@
 <h1 align="center">Hello, and welcum to the Los Pollos Hermanos Familly 🍗 </h1>
 <p> 
- <img src="https://media.tenor.com/-ZTRnNnkX6gAAAAC/gustavo-fring.gif" align="middle" alt="GUS" width="100" height="100"/> 
+<img src="https://media.tenor.com/-ZTRnNnkX6gAAAAC/gustavo-fring.gif" align="rigth" alt="GUS" width="100" height="100"/> 
 </p>
 <h3 align="center">Glory to Arstotszka ☭.</h3>
 
