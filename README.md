@@ -1,4 +1,5 @@
-<h1 align="center">Hello, and welcum to the Los Pollos Hermanos Familly 🍗<img src="https://media.tenor.com/-ZTRnNnkX6gAAAAC/gustavo-fring.gif" alt="GUS" width="40" height="40"/> </h1>
+<h1 align="center">Hello, and welcum to the Los Pollos Hermanos Familly 🍗 </h1>
+<img src="https://media.tenor.com/-ZTRnNnkX6gAAAAC/gustavo-fring.gif" alt="GUS" width="100" height="100"/>
 <h3 align="center">Glory to Arstotszka ☭.</h3>
 
 - 👨‍💻 KALI Linux and Python enthusiast
