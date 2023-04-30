@@ -1,5 +1,7 @@
-<h1 align="center">Hello and, welcum to the Los Pollos Hermanos Familly</h1>
-<h3 align="center">Glory to Arstotszka.</h3>
+<h1 align="center">Hello, and welcum to the Los Pollos Hermanos Familly 🍗</h1>
+<h3 align="center">Glory to Arstotszka ☭.</h3>
+
+- 👨‍💻 KALI Linux and Python enthusiast
 
 - 👨‍💻 All of my projects are available at [https://github.com/Grogny](https://github.com/Grogny)
 
