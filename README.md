@@ -3,7 +3,7 @@
 <a href="https://i.kym-cdn.com/entries/icons/original/000/041/650/gusripped.jpg" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/-ZTRnNnkX6gAAAAC/gustavo-fring.gif" alt="GUS" align="center" width="100" height="100"/> 
 </p>
 
-<h3 align="center"><img src="https://github.com/Grogny/image/blob/main/image-removebg-preview%20(74).png?raw=true" alt="Arstotszka icon" align="center" width="50" height="50"/>Glory to Arstotszka<img src="https://github.com/Grogny/image/blob/main/image-removebg-preview%20(74).png?raw=true" alt="Arstotszka icon" align="center" width="50" height="50"/></h3>
+<h3 align="center">Glory to Arstotszka !</h3>
 
 - 👨‍💻 KALI Linux and Python enthusiast
 
