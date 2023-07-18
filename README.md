@@ -5,8 +5,6 @@
 
 <h2 align="center">I can't believe it's just a burning memory</h2>
 
-
----
 - 👨‍💻 KALI Linux and Python enthusiast
 
 - 👨‍💻 All of my projects can be found here!
@@ -18,7 +16,7 @@
 no.
 <p align="left">
 </p>
----
 
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=qBWtR72kluCU&format=png" alt="KALI linux" width="50" height="50"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=8gWOBXY72Osj&format=png" alt="BASH" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
