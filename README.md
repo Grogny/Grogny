@@ -11,7 +11,6 @@
 
 - 👨‍💻 Fun facts: **I'm inside your house**
 
----
 <h3 align="left">Connect with me:</h3>
 no.
 <p align="left">
