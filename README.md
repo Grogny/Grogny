@@ -3,7 +3,7 @@
 <a href="https://i.kym-cdn.com/entries/icons/original/000/041/650/gusripped.jpg" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/-ZTRnNnkX6gAAAAC/gustavo-fring.gif" alt="GUS" align="center" width="100" height="100"/> 
 </p>
 
-- 👨‍💻 KALI Linux and Python enthusiast
+- 👨‍💻 ParrotOS and Python enthusiast
 
 - 👨‍💻 All of my projects can be found here!
 
@@ -15,4 +15,4 @@ no.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=qBWtR72kluCU&format=png" alt="KALI linux" width="50" height="50"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=8gWOBXY72Osj&format=png" alt="BASH" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.5069047432.7351/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="ParrotOS" width="50" height="50"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=8gWOBXY72Osj&format=png" alt="BASH" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
