@@ -10,7 +10,7 @@
 <p>┌─[grogny@parrot]─[~/Github]</p>
 <p>└──╼ $cat Informations</p>
 
-<h2 align="left">Grogny's Informations:</h2>
+<h3 align="left">Grogny's Informations:</h3>
 <p>- 👨‍💻 ParrotOS and Python enthusiast</p>
 
 <p>- 👨‍💻 All of my projects can be found here!</p>
