@@ -6,6 +6,10 @@
 
 <p>┌─[✗]─[grogny@parrot]─[~]</p>
 <p>└──╼ $cd Informations</p>
+
+<p>┌─[nap0@parrot]─[~/Informations]
+└──╼ $
+</p>
 - 👨‍💻 ParrotOS and Python enthusiast
 
 - 👨‍💻 All of my projects can be found here!
