@@ -3,7 +3,7 @@
 <a href="https://i.kym-cdn.com/entries/icons/original/000/041/650/gusripped.jpg" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/-ZTRnNnkX6gAAAAC/gustavo-fring.gif" alt="GUS" align="center" width="100" height="100"/> 
 </p>
 
-<tspan> fill=red┌─[✗]─[grogny@parrot]─[~]</tspan>
+<tspan> fill="red"┌─[✗]─[grogny@parrot]─[~]</tspan>
 <p>└──╼ $cd Github</p>
 
 <p>┌─[grogny@parrot]─[~/Github]</p>
