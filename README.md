@@ -4,9 +4,9 @@
 </p>
 
 <p>┌─[✗]─[grogny@parrot]─[~]</p>
-<p>└──╼ $cd GitHub</p>
+<p>└──╼ $cd Github</p>
 
-<p>┌─[grogny@parrot]─[~/GitHub]</p>
+<p>┌─[grogny@parrot]─[~/Github]</p>
 <p>└──╼ $cat Informations</p>
 
 <p>- 👨‍💻 ParrotOS and Python enthusiast</p>
@@ -18,6 +18,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Grogny/image-video-gif/blob/main/image-removebg-preview.png?raw=true" alt="ParrotOS" width="38" height="38"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=8gWOBXY72Osj&format=png" alt="BASH" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>┌─[grogny@parrot]─[~/GitHub]</p>
+<p>┌─[grogny@parrot]─[~/Github]</p>
 <p>└──╼ $cd Connect_With_Me</p>
-<p><strong>bash: cd: Connect_With_Me: No such file or Diretory</strong></p>
+<p><strong>bash: cd: Connect_With_Me: No such file or Directory</strong></p>
