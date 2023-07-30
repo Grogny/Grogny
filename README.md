@@ -4,8 +4,8 @@
 
 </p>
 
-┌─[✗]─[grogny@parrot]─[~]
-└──╼ $cd Informations
+<p>┌─[✗]─[grogny@parrot]─[~]
+└──╼ $cd Informations</p>
 - 👨‍💻 ParrotOS and Python enthusiast
 
 - 👨‍💻 All of my projects can be found here!
