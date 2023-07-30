@@ -3,7 +3,7 @@
 <a href="https://i.kym-cdn.com/entries/icons/original/000/041/650/gusripped.jpg" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/-ZTRnNnkX6gAAAAC/gustavo-fring.gif" alt="GUS" align="center" width="100" height="100"/> 
 </p>
 
-```bash
+
 <p>┌─[✗]─[grogny@parrot]─[~]</p>
 <p>└──╼ $cd Github</p>
 
@@ -22,4 +22,4 @@
 <p>┌─[grogny@parrot]─[~/Github]</p>
 <p>└──╼ $cd Connect_With_Me</p>
 <p><strong>bash: cd: Connect_With_Me: No such file or Directory</strong></p>
-```
+
