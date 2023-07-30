@@ -1,11 +1,11 @@
 <h1 align="center"><strong>Grogny</strong> Your Captain 👨‍✈️</h1>
 <p align="center">
 <a href="https://i.kym-cdn.com/entries/icons/original/000/041/650/gusripped.jpg" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/-ZTRnNnkX6gAAAAC/gustavo-fring.gif" alt="GUS" align="center" width="100" height="100"/> 
-┌─[✗]─[grogny@parrot]─[~]
-└──╼ $cd Informations
 
 </p>
 
+┌─[✗]─[grogny@parrot]─[~]
+└──╼ $cd Informations
 - 👨‍💻 ParrotOS and Python enthusiast
 
 - 👨‍💻 All of my projects can be found here!
