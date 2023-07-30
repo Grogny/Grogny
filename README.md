@@ -7,19 +7,19 @@
 <p>┌─[✗]─[grogny@parrot]─[~]</p>
 <p>└──╼ $cd Informations</p>
 
-<p>┌─[nap0@parrot]─[~/Informations]
-└──╼ $
-</p>
+<p>┌─[nap0@parrot]─[~/Informations]</p>
+<p>└──╼ $ls</p>
+
 - 👨‍💻 ParrotOS and Python enthusiast
 
 - 👨‍💻 All of my projects can be found here!
 
 - 👨‍💻 Fun facts: **I'm inside your house**
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Grogny/image-video-gif/blob/main/image-removebg-preview.png?raw=true" alt="ParrotOS" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=8gWOBXY72Osj&format=png" alt="BASH" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 <h3 align="left">Connect with me:</h3>
 no.
 <p align="left">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Grogny/image-video-gif/blob/main/image-removebg-preview.png?raw=true" alt="ParrotOS" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=8gWOBXY72Osj&format=png" alt="BASH" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
