@@ -7,7 +7,7 @@
 <p>┌─[✗]─[grogny@parrot]─[~]</p>
 <p>└──╼ $cd Informations</p>
 
-<p>┌─[nap0@parrot]─[~/Informations]</p>
+<p>┌─[grogny@parrot]─[~/Informations]</p>
 <p>└──╼ $ls</p>
 
 - 👨‍💻 ParrotOS and Python enthusiast
