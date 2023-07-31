@@ -22,5 +22,4 @@
 
 <p>┌─[grogny@parrot]─[~/Github]</p>
 <p>└──╼ $cd Connect_With_Me</p>
-<p><strong>bash: cd: Connect_With_Me: No such file or Directory</strong></p>
-
+<p><strong>bash: cd: Connect_With_Me: No such file or directory</strong></p>
