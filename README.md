@@ -4,9 +4,9 @@
 </p>
 
 <p>┌─[✗]─[grogny@parrot]─[~]</p>
-<p>└──╼ $cd Github</p>
+<p>└──╼ $cd GitHub</p>
 
-<p>┌─[grogny@parrot]─[~/Github]</p>
+<p>┌─[grogny@parrot]─[~/GitHub]</p>
 <p>└──╼ $cat Informations</p>
 
 <h3 align="left">Grogny's Informations:</h3>
